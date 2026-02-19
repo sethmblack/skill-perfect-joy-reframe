@@ -4,7 +4,8 @@ description: Transform experiences of rejection, failure, and suffering using St
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.4659
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - perfect-joy-reframe
 - transformation
